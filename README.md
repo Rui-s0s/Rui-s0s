@@ -32,6 +32,6 @@ I am an engineering student dedicated to solving complex systems problems and un
 *   **Software Engineering:** OOP, Design Patterns, Data Structures & Algorithms.
 *   **Web Development:** API design, Web Security and best practices, Database Manipulation.
 *   **Systems Engineering:** Low-level programming and Network Engineering.
-*   **The Bridge:** I bridge the gap between systems engineering and the modern web, delivering high-performance, secure architectures designed for scale..
+*   **The Bridge:** I bridge the gap between systems engineering and the modern web, delivering high-performance, secure architectures designed for scale.
 
 ---
