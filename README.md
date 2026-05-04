@@ -19,7 +19,8 @@ I am an engineering student dedicated to solving complex systems problems and un
 **Frameworks & Backend**
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Hono](https://img.shields.io/badge/hono-%23FF6B00.svg?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Databases & Infrastructure**
@@ -33,6 +34,7 @@ I am an engineering student dedicated to solving complex systems problems and un
 
 *   **Software Engineering:** OOP, Design Patterns, Data Structures & Algorithms.
 *   **Web Development:** API design, Web Security and best practices, Database Manipulation.
+*   **Frontend Development:** React, component-based architecture, UI/UX principles, responsive design, state management and performance optimization.
 *   **Systems Engineering:** Low-level programming and Network Engineering.
 *   **The Bridge:** I bridge the gap between systems engineering and the modern web, delivering high-performance, secure architectures designed for scale.
 
